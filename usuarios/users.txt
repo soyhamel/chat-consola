@@ -1,5 +1,0 @@
-<socket.socket fd=372, family=2, type=1, proto=0, laddr=('127.0.0.1', 50324), raddr=('127.0.0.1', 54786)>:baibai
-<socket.socket fd=332, family=2, type=1, proto=0, laddr=('127.0.0.1', 50324), raddr=('127.0.0.1', 55572)>:juan
-<socket.socket fd=372, family=2, type=1, proto=0, laddr=('127.0.0.1', 50324), raddr=('127.0.0.1', 55580)>:pepe
-<socket.socket fd=392, family=2, type=1, proto=0, laddr=('127.0.0.1', 50324), raddr=('127.0.0.1', 27460)>:cici
-<socket.socket fd=332, family=2, type=1, proto=0, laddr=('127.0.0.1', 50324), raddr=('127.0.0.1', 59828)>:zzabala
